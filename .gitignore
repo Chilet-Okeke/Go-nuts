@@ -1,0 +1,27 @@
+# Dependencies
+Go-nuts/node_modules/
+
+# Build output
+Go-nuts/dist/
+
+# Ignore everything on Desktop that isn't the project
+*.pdf
+*.zip
+*.lnk
+*.ini
+*.txt
+*.html
+*.zip
+Linkedin*
+WinRAR*
+Postman*
+SystemDesign*
+SellEasy*
+acct-verified*
+email-test*
+order-*
+password-*
+payment-*
+profile-*
+desktop.ini
+src.zip
